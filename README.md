@@ -1,16 +1,12 @@
-## Hi there 👋
+# Ignacio De Albert
 
-<!--
-**dealbertt/dealbertt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering student interested in building software, learning low-level technologies and understanding how systems work under the hood.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Main interests:
+- C / C++
+- Zig
+- Systems Programming
+- Python / AI
+- Cybersecurity
+- Distributed Systems
+- Backend Engineering
